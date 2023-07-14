@@ -1,0 +1,2 @@
+# macsolo
+my personal repository
